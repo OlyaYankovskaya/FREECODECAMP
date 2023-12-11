@@ -163,5 +163,6 @@ suite('Unit Tests', function () {
             assert.notInstanceOf(myCar.wheels, String );
         });
     });
+
     // -----------------------------------------------------------------------------
 });
